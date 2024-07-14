@@ -1,0 +1,4 @@
+iniciar servidor: npm run dev
+prisma studio: npm run db:studio -p 5556
+
+(Necessario para testar criação de atividades e colocar links no app)
